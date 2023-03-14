@@ -17,6 +17,7 @@ const Link = styled.a`
   position: absolute;
   height: 100%;
   top: 0;
+  left: 0;
   display: flex;
   flex-direction: column;
   justify-content: center;
